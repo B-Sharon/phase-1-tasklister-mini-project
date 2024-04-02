@@ -35,3 +35,14 @@ button {
   border-radius: 5px;
   box-shadow: 2px 5px 5px #333;
 }
+
+/*colors for the priority level*/
+.high{
+  color:red;
+}
+.medium{
+  color:yellow;
+}
+.low{
+  color:green;
+}
